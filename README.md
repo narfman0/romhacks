@@ -28,10 +28,12 @@ give the runner more consistent runs.
 Hashes of original rom files (zips included only for convenience, you still
 must extract):
 
-Super Mario Bros 3 (U) (PRG 0).zip MD5 `19FDA7D7879516017CEFAE7217F8D444`
-Super Mario Bros 3 (U) (PRG 0).zip SHA1 `FC249DA7D75070C08EB907F8AC078A13F782635D`
-Super Mario Bros 3 (U) (PRG 0).nes MD5 `BB5C4B6D4D78C101F94BDB360AF502F3`
-Super Mario Bros 3 (U) (PRG 0).nes SHA1 `A03E7E526E79DF222E048AE22214BCA2BC49C449`
+| File name                          | Hash type | Hash                                     |
+| ---------------------------------- |:---------:| ----------------------------------------:|
+| Super Mario Bros 3 (U) (PRG 0).zip | MD5       | 19FDA7D7879516017CEFAE7217F8D444         |
+| Super Mario Bros 3 (U) (PRG 0).zip | SHA1      | FC249DA7D75070C08EB907F8AC078A13F782635D |
+| Super Mario Bros 3 (U) (PRG 0).nes | MD5       | BB5C4B6D4D78C101F94BDB360AF502F3         |
+| Super Mario Bros 3 (U) (PRG 0).nes | SHA1      | A03E7E526E79DF222E048AE22214BCA2BC49C449 |
 
 License
 -------
