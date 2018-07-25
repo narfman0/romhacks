@@ -18,8 +18,27 @@ Steps:
 * Follow the title screen in popups - select the ips file, select target rom
 * Select where you want to save your patched rom
 
-SMB3 no hands
--------------
+Super Mario Bros 3 pspeed nocards
+---------------------------------
+
+`Super Mario Bros 3 pspeed nocards.ips` is a patch for dotsarecools version of
+smb3 intended for practice use. It removes all random card encounters, normally
+triggered when the player's score is >= 80000.
+
+Hashes of original rom files:
+
+| File name                          | Hash type | Hash                                     |
+| ---------------------------------- |:---------:| ----------------------------------------:|
+| Super Mario Bros 3 pspeed.nes | MD5       | 48b16df2b956309d05361d1f2b55152f              |
+| Super Mario Bros 3 pspeed.nes | SHA1      | C24022ACF431DEE19F16915491D82418625D6DB6      |
+
+It works by patching around $AC9D. There is a check for coins, and we change
+the BCC to immediately RTS (NOP,NOP) instead of whatever branched lameness
+normally occurred.
+
+
+Super Mario Bros 3 no hands
+---------------------------
 
 `Super Mario Bros 3 (U) (PRG 0) - nohands.ips` is a patch for SMB3 rom titled
 "Super Mario Bros 3 (U) (PRG 0)". It removes the random hands in world 8 to
