@@ -63,6 +63,13 @@ nohands
 give the runner more consistent runs. For practice, a player may still manually
 click on the hand to enter a world.
 
+skip levels
+-----------
+`Super Mario Bros 3 skip levels.ips` allows for overworld movement over uncompleted
+levels.
+
+Note: this is confirmed to work for kamikaze bros 3
+
 License
 -------
 
