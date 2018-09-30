@@ -41,6 +41,14 @@ must extract):
 | Super Mario Bros 3 (U) (PRG 0).nes | MD5       | BB5C4B6D4D78C101F94BDB360AF502F3         |
 | Super Mario Bros 3 (U) (PRG 0).nes | SHA1      | A03E7E526E79DF222E048AE22214BCA2BC49C449 |
 
+all items
+---------
+
+`Super Mario Bros 3 all items.ips` begins all runs with maxed inventory, similar
+to debug mode. They ARE single use consumption (another patch should exist later
+to permanently enable them).
+
+
 nocards
 -------
 
