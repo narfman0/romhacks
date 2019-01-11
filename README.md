@@ -51,7 +51,7 @@ to permanently enable them).
 noauto
 ------
 
-Remove autoscrollers from the game. Can't find 5-9 yet, but hopefully I'll revisit this.
+Remove autoscrollers from the game
 
 nocards
 -------
