@@ -48,6 +48,10 @@ all items
 to debug mode. They ARE single use consumption (another patch should exist later
 to permanently enable them).
 
+noauto
+------
+
+Remove autoscrollers from the game. Can't find 5-9 yet, but hopefully I'll revisit this.
 
 nocards
 -------
