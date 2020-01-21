@@ -75,6 +75,12 @@ nohands
 give the runner more consistent runs. For practice, a player may still manually
 click on the hand to enter a world.
 
+quickdeath
+----------
+
+`Super Mario Bros 3 quickdeath.ips` makes Mario's death very quick, so one
+may practice and learn much faster, or make a romhack faster to go through.
+
 skip levels
 -----------
 `Super Mario Bros 3 skip levels.ips` allows for overworld movement over uncompleted
