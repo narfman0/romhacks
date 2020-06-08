@@ -95,6 +95,13 @@ will create a practice rom for super riff bros 3. It allows the user to enter
 all the levels across two screens. The first screen is all vanilla levels, and
 the second screen has star world, forts, and other levels.
 
+Super Calm Bros. 3 practice
+---------------------------
+
+`Super_Calm_Bros_1.1_practice.ips` is a patch (on the PRG0 SMB3 rom) that
+will create a practice rom for super calm bros 3. It grants the player all items,
+start from any world, quickdeath, and skip levels patches.
+
 License
 -------
 
