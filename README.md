@@ -25,13 +25,13 @@ While explaining each is easy enough, ips patch files are very simple to read. T
 constant `PATCH` ascii in the beginning: `50 41 54 43 48`. Then, multiple hunks follow,
 each of which are a 3 byte offset, 2 byte length, and payload. The file ends with EOF `45 4F 46`
 
-[Super Mario Bros. 3](Super_Mario_Bros_3/README.md)
+[Super Mario Bros. 3](Super_Mario_Bros_3)
 ===================================================
 
-[Super Riff Bros. 3](Super_Riff_Bros_3/README.md)
+[Super Riff Bros. 3](Super_Riff_Bros_3)
 =================================================
 
-[Super Calm Bros. 3](Super_Calm_Bros_3/README.md)
+[Super Calm Bros. 3](Super_Calm_Bros_3)
 =================================================
 
 License
