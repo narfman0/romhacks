@@ -4,6 +4,11 @@ Super Calm Bros. 3
 Unless otherwise stated, the following patches should be applied to the
 base Super Calm Bros nes file (e.g. for me: `Super_Calm_Bros_1.1.nes`)
 
+base patch
+-------------
+
+`Super_Calm_Bros_1.1.ips` will patch the base Super Mario Bros 3 game
+
 nolocks
 -------
 `Super_Calm_Bros_1.1_nolocks.ips` will remove all locks and stones from
