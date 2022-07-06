@@ -60,3 +60,7 @@ skip levels
 -----------
 `Super Mario Bros 3 skip levels.ips` allows for overworld movement over uncompleted
 levels.
+
+title
+-----------
+`Super Mario Bros 3 title.ips` rounded s on title screen :D
